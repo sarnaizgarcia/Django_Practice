@@ -1,0 +1,10 @@
+# Virtual envitoments
+myvenv/
+
+# Databases files
+db.sqlite3
+
+# Python bytecode files
+*.pyc
+
+.vscode
